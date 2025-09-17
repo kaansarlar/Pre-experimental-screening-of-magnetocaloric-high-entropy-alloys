@@ -13,3 +13,6 @@ Companion to the manuscript:
 Open the notebook in Jupyter and adjust data paths if needed.
 
 *Operating point (reported in the paper):* coverage≈0.347, recall≈0.720, precision≈0.261.
+## License
+- Code: MIT (see LICENSE)
+- Data (data/): CC BY 4.0 (see LICENSE)
