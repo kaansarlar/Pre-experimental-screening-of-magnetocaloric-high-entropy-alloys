@@ -1,7 +1,7 @@
 # Magnetocaloric HEA — ΔSref 
 
 Companion to the manuscript:
-**"Pre-experimental screening of magnetocaloric high-entropy alloys via a field-normalized target and explainable machine learning."**
+**Field-normalized ΔSref and interpretable composition rules for screening magnetocaloric HEAs"**
 
 ## Contents
 - `code/dSref_calculation.ipynb` — notebook for ΔSref construction/checks.
