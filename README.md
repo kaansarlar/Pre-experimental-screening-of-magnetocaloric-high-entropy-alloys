@@ -1,7 +1,7 @@
 # Magnetocaloric HEA — ΔSref 
 
 Companion to the manuscript:
-**Field-normalized ΔSref and interpretable composition rules for screening magnetocaloric HEAs"**
+**Machine-learning–guided, field-normalized ΔSref and interpretable composition rules for screening magnetocaloric HEAs**
 
 ## Contents
 - `code/dSref_calculation.ipynb` — notebook for ΔSref construction/checks.
